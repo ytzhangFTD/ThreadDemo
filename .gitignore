@@ -7,8 +7,12 @@
 # !foo.html
 # 忽略所有.o和 .a文件.
 # *.[oa]
-
+ 
 *.iml
 .idea
+.idea/**/workspace.xml
+.idea/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
 .git
 target
